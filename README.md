@@ -1,4 +1,4 @@
-Disease Prediction 
+Disease Prediction Model 
 Uses 3 Algorithms: 
 1. Support Vector Classifer
 2. Gaussian Naive Bayes
